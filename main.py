@@ -176,3 +176,6 @@ def get_user(username: str):
         return user
     finally:
         db.close()
+
+
+#Chi vuol esser lieto sia,del domani non c'è certezza.
